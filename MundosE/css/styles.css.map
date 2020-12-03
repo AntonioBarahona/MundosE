@@ -1,0 +1,17 @@
+{
+    "version": 3,
+    "mappings": "AEAA,AAAA,IAAI,CAAA;EACA,SAAS,EAAE,KAAK;EAChB,UAAU,EAAE,UAAU;CACzB;;AACD,AAAA,IAAI;AACJ,IAAI,CAAA;EACA,MAAM,EAAE,CAAC;CACZ;;ACPD,AAAA,MAAM,CAAA;EACF,gBAAgB,EAAE,IAAI;CACzB",
+    "sources": [
+        "styles.scss",
+        "_variables.scss",
+        "_default.scss",
+        "_header.scss",
+        "_seccion1.scss",
+        "_seccion2.scss",
+        "_seccion3.scss",
+        "_seccion4.scss",
+        "_footer.scss"
+    ],
+    "names": [],
+    "file": "styles.css"
+}
